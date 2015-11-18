@@ -1,0 +1,7 @@
+# .gitignore
+#
+
+# temporary files
+*.swp
+*~
+
