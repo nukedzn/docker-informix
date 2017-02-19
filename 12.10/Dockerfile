@@ -21,7 +21,7 @@ RUN apt-get update \
 	&& echo "ol_informix1210_json    27017/tcp" >> /etc/services
 
 
-ADD 12.10.FC5DE-dist.tar.xz /
+ADD 12.10.FC8DE-dist.tar.xz /
 ADD run.sh /opt/informix/run.sh
 
 
